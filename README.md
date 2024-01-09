@@ -40,13 +40,13 @@ Peter Pandey, the newly appointed data analyst in the supply chain team at Atliq
 # Data Model 
 
 <p align="center">
-  <img src="#" height="400">
+  <img src="https://github.com/osama-saeed1/Supply-Chain-Analysis-Codebasics.io-Challenge-/assets/155672898/75b4b84c-e481-41a6-96a1-22d02b94ac65" height="400">
 </p>
 
 ## Dashboard 
 
 <p align="center">
-  <img src="#" width="300">
+  <img src="https://github.com/osama-saeed1/Supply-Chain-Analysis-Codebasics.io-Challenge-/assets/155672898/139ce46b-2dcf-442a-8d19-02b58bc7b1b3" width="300">
 </p>
 
 ## Some Major Insights 
